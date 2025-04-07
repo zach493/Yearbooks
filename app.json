@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "SMCYearbook",
+    "slug": "SMCYearbook",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "e15da59c-886b-4091-b7b4-5283c2480c6a"
+      }
+    },
+    "owner": "zach493",
+    "android": {
+      "package": "com.zach493.SMCYearbook"
+    }
+  }
+}
